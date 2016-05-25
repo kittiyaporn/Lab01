@@ -1,0 +1,17 @@
+* {
+	font-family: 'Indie Flower', cursive;
+}
+
+.header {	
+	color: #33070F;
+	text-align: center;
+	font-size: 100px;
+}
+
+.taber {
+	text-align: center;
+	border: 1px;
+	color: #1E0B0B;
+	font-size: 30px;	
+}
+
